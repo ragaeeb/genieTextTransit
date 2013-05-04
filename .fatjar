@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun May 31 02:17:28 EDT 2009
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=bin\\genieTextTransit_1.00.jar
+manifest.mergeall=true
+manifest.mainclass=com.canabang.genietext.core.controller.Controller
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<po|genieText>~com/~canabang/~genietext/~core/~tests/;<po|genieText>~com/~canabang/~genietext/~transit/~tests/;<jar|junit-4.6.jar>
+includes=<inc|genieText/res>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smsServices>
+	<server protocol="IMAP">
+		<username>username@gmail.com</username>
+		<password>pass</password>
+		<host>imap.gmail.com</host>
+	</server>
+
+	<server protocol="SMTP">
+		<username>username@gmail.com</username>
+		<password>pass</password>
+		<host>smtp.gmail.com</host>
+		<port>465</port>
+	</server>
+
+	<subscription output="C:/sampleOutput.xml"></subscription>
+
+	<clock format="12"></clock>
+</smsServices>

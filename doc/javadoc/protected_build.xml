@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="protected" author="true" classpath="F:\PortableApps\junit\junit-4.6.jar;F:\PortableApps\javamail-1.4.1\mail.jar" destdir="protected" doctitle="genieText: transit v1.00 javadoc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="com.canabang.genietext.transit.model.processor,com.canabang.genietext.core.view.structs,com.canabang.genietext.core.model.processor.requests,com.canabang.genietext.core.model.server,com.canabang.genietext.transit.model.processor.dbase,com.canabang.genietext.core.model.structs,com.canabang.genietext.core.tests.system.io.xml,com.canabang.genietext.core.model,com.canabang.genietext.core.controller,com.canabang.genietext.core.view,com.canabang.genietext.core.view.panels,com.canabang.genietext.transit.tests.model.processor,com.canabang.genietext.core.view.panels.parameters,com.canabang.genietext.core.model.io.xml,com.canabang.genietext.transit.tests.model.processor.dbase,com.canabang.genietext.core.model.processor,com.canabang.genietext.transit.tests.model.processor.requests,com.canabang.genietext.transit.model.eventHandlers,com.canabang.genietext.transit.model,com.canabang.genietext.core.model.eventHandlers,com.canabang.genietext.transit.model.io,com.canabang.genietext.transit.tests.model.io,com.canabang.genietext.transit.model.processor.requests" source="1.6" sourcepath="../../src" splitindex="true" use="true" version="true">
+            <link href="file:/F:/PortableApps/javamail-1.4.1/docs/javadocs/"/>
+            <link href="http://java.sun.com/javase/6/docs/api/"/>
+        </javadoc>
+    </target>
+</project>
